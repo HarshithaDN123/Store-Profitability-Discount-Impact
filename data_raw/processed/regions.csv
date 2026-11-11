@@ -1,0 +1,633 @@
+state,city,postal_code,region_id
+Kentucky,Henderson,42420,1
+California,Los Angeles,90036,2
+Florida,Fort Lauderdale,33311,3
+California,Los Angeles,90032,4
+North Carolina,Concord,28027,5
+Washington,Seattle,98103,6
+Texas,Fort Worth,76106,7
+Wisconsin,Madison,53711,8
+Utah,West Jordan,84084,9
+California,San Francisco,94109,10
+Nebraska,Fremont,68025,11
+Pennsylvania,Philadelphia,19140,12
+Utah,Orem,84057,13
+California,Los Angeles,90049,14
+Texas,Houston,77095,15
+Texas,Richardson,75080,16
+Texas,Houston,77041,17
+Illinois,Naperville,60540,18
+Florida,Melbourne,32935,19
+Minnesota,Eagan,55122,20
+Michigan,Westland,48185,21
+Delaware,Dover,19901,22
+Indiana,New Albany,47150,23
+New York,New York City,10024,24
+New York,Troy,12180,25
+California,Los Angeles,90004,26
+Illinois,Chicago,60610,27
+Arizona,Gilbert,85234,28
+Virginia,Springfield,22153,29
+New York,New York City,10009,30
+Michigan,Jackson,49201,31
+Tennessee,Memphis,38109,32
+Texas,Houston,77070,33
+Alabama,Decatur,35601,34
+California,San Francisco,94122,35
+North Carolina,Durham,27707,36
+Illinois,Chicago,60623,37
+South Carolina,Columbia,29203,38
+Minnesota,Rochester,55901,39
+Minnesota,Minneapolis,55407,40
+Oregon,Portland,97206,41
+Minnesota,Saint Paul,55106,42
+Colorado,Aurora,80013,43
+North Carolina,Charlotte,28205,44
+Illinois,Orland Park,60462,45
+New York,New York City,10035,46
+Iowa,Urbandale,50322,47
+Ohio,Columbus,43229,48
+Tennessee,Bristol,37620,49
+Delaware,Wilmington,19805,50
+Illinois,Bloomington,61701,51
+Arizona,Phoenix,85023,52
+California,Roseville,95661,53
+Missouri,Independence,64055,54
+California,Pasadena,91104,55
+Ohio,Newark,43055,56
+Wisconsin,Franklin,53132,57
+Arizona,Scottsdale,85254,58
+California,San Jose,95123,59
+Washington,Seattle,98105,60
+Washington,Seattle,98115,61
+Oklahoma,Edmond,73034,62
+California,Los Angeles,90045,63
+Pennsylvania,Philadelphia,19134,64
+New Mexico,Carlsbad,88220,65
+Texas,San Antonio,78207,66
+Texas,Houston,77036,67
+Illinois,Decatur,62521,68
+Louisiana,Monroe,71203,69
+Connecticut,Fairfield,6824,70
+Texas,Grand Prairie,75051,71
+California,Redlands,92374,72
+Ohio,Hamilton,45011,73
+New Jersey,Westfield,7090,74
+Pennsylvania,Philadelphia,19120,75
+Ohio,Akron,44312,76
+Colorado,Denver,80219,77
+Texas,Dallas,75220,78
+Tennessee,Franklin,37064,79
+California,Whittier,90604,80
+Michigan,Saginaw,48601,81
+Ohio,Medina,44256,82
+Ohio,Dublin,43017,83
+Michigan,Detroit,48227,84
+Tennessee,Columbia,38401,85
+Florida,Tampa,33614,86
+California,Santa Clara,95051,87
+Minnesota,Lakeville,55044,88
+California,San Diego,92037,89
+Texas,Pasadena,77506,90
+California,Brentwood,94513,91
+North Carolina,Chapel Hill,27514,92
+New Jersey,Morristown,7960,93
+Ohio,Cincinnati,45231,94
+California,San Francisco,94110,95
+California,Inglewood,90301,96
+Florida,Tamarac,33319,97
+Colorado,Colorado Springs,80906,98
+New Jersey,Belleville,7109,99
+Michigan,Taylor,48180,100
+New Jersey,Lakewood,8701,101
+Virginia,Arlington,22204,102
+Colorado,Arvada,80004,103
+New Jersey,Hackensack,7601,104
+Florida,Saint Petersburg,33710,105
+Pennsylvania,Philadelphia,19143,106
+California,Long Beach,90805,107
+California,Hesperia,92345,108
+Tennessee,Murfreesboro,37130,109
+Utah,Layton,84041,110
+Texas,Austin,78745,111
+Massachusetts,Lowell,1852,112
+Georgia,Columbus,31907,113
+Connecticut,Manchester,6040,114
+Texas,Harlingen,78550,115
+Arizona,Tucson,85705,116
+Illinois,Quincy,62301,117
+Massachusetts,Franklin,2038,118
+Florida,Pembroke Pines,33024,119
+Washington,Des Moines,98198,120
+Illinois,Peoria,61604,121
+Nevada,Las Vegas,89115,122
+Rhode Island,Warwick,2886,123
+Florida,Miami,33180,124
+North Carolina,Wilmington,28403,125
+California,Huntington Beach,92646,126
+Kentucky,Richmond,40475,127
+Colorado,Louisville,80027,128
+Massachusetts,Lawrence,1841,129
+Mississippi,Jackson,39212,130
+Michigan,Canton,48187,131
+New York,New Rochelle,10801,132
+North Carolina,Gastonia,28052,133
+Florida,Jacksonville,32216,134
+Indiana,Columbus,47201,135
+New York,Auburn,13021,136
+Oklahoma,Norman,73071,137
+California,Concord,94521,138
+Illinois,Park Ridge,60068,139
+Texas,Amarillo,79109,140
+New York,Lindenhurst,11757,141
+California,Los Angeles,90008,142
+California,San Diego,92024,143
+Texas,Huntsville,77340,144
+New York,Rochester,14609,145
+Arkansas,Fayetteville,72701,146
+California,Costa Mesa,92627,147
+Colorado,Parker,80134,148
+Georgia,Atlanta,30318,149
+Missouri,Gladstone,64118,150
+Montana,Great Falls,59405,151
+Michigan,Detroit,48234,152
+Florida,Lakeland,33801,153
+Alabama,Montgomery,36116,154
+Arizona,Mesa,85204,155
+Illinois,Chicago,60653,156
+Wisconsin,Green Bay,54302,157
+Ohio,Springfield,45503,158
+California,Anaheim,92804,159
+Washington,Marysville,98270,160
+Oregon,Salem,97301,161
+Texas,Laredo,78041,162
+Texas,Dallas,75217,163
+Ohio,Grove City,43123,164
+New York,New York City,10011,165
+Michigan,Dearborn,48126,166
+Georgia,Warner Robins,31088,167
+California,Vallejo,94591,168
+California,Mission Viejo,92691,169
+Michigan,Rochester Hills,48307,170
+New Jersey,Plainfield,7060,171
+Arizona,Sierra Vista,85635,172
+Washington,Vancouver,98661,173
+Illinois,Aurora,60505,174
+Texas,Arlington,76017,175
+Kentucky,Louisville,40214,176
+Texas,Dallas,75081,177
+Ohio,Cleveland,44105,178
+Texas,Tyler,75701,179
+North Carolina,Burlington,27217,180
+Virginia,Waynesboro,22980,181
+Pennsylvania,Chester,19013,182
+North Carolina,Cary,27511,183
+Florida,Palm Coast,32137,184
+New York,Mount Vernon,10550,185
+Michigan,Detroit,48205,186
+Florida,Hialeah,33012,187
+New York,Oceanside,11572,188
+California,San Diego,92105,189
+Illinois,Evanston,60201,190
+Michigan,Trenton,48183,191
+Minnesota,Cottage Grove,55016,192
+Louisiana,Bossier City,71111,193
+Iowa,Des Moines,50315,194
+California,Lancaster,93534,195
+Virginia,Richmond,23223,196
+North Carolina,Asheville,28806,197
+California,Lake Elsinore,92530,198
+Nebraska,Omaha,68104,199
+Washington,Edmonds,98026,200
+California,Santa Ana,92704,201
+Wisconsin,Milwaukee,53209,202
+Kentucky,Florence,41042,203
+Ohio,Lorain,44052,204
+New Jersey,Linden,7036,205
+California,Salinas,93905,206
+New Jersey,New Brunswick,8901,207
+Pennsylvania,Lancaster,17602,208
+New Hampshire,Concord,3301,209
+Maryland,Columbia,21044,210
+Texas,Garland,75043,211
+Connecticut,Norwich,6360,212
+Virginia,Alexandria,22304,213
+Ohio,Toledo,43615,214
+New Mexico,Farmington,87401,215
+California,Riverside,92503,216
+California,Torrance,90503,217
+Texas,Round Rock,78664,218
+California,Oceanside,92054,219
+Florida,Boca Raton,33433,220
+Virginia,Virginia Beach,23464,221
+California,Murrieta,92563,222
+North Carolina,Jacksonville,28540,223
+Iowa,Burlington,52601,224
+Washington,Olympia,98502,225
+District of Columbia,Washington,20016,226
+Missouri,Jefferson City,65109,227
+Missouri,Saint Peters,63376,228
+Illinois,Rockford,61107,229
+Florida,Miami,33142,230
+Texas,Brownsville,78521,231
+New York,Yonkers,10701,232
+California,Oakland,94601,233
+North Carolina,Monroe,28110,234
+Maryland,Clinton,20735,235
+California,Encinitas,92024,236
+Georgia,Roswell,30076,237
+Arkansas,Jonesboro,72401,238
+Indiana,Richmond,47374,239
+California,Antioch,94509,240
+Florida,Homestead,33030,241
+Indiana,La Porte,46350,242
+Michigan,Lansing,48911,243
+Ohio,Cuyahoga Falls,44221,244
+Nevada,Reno,89502,245
+Virginia,Harrisonburg,22801,246
+California,Escondido,92025,247
+Michigan,Royal Oak,48073,248
+Maryland,Rockville,20852,249
+Florida,Coral Springs,33065,250
+New York,Buffalo,14215,251
+Florida,Boynton Beach,33437,252
+Mississippi,Gulfport,39503,253
+California,Fresno,93727,254
+North Carolina,Greenville,27834,255
+New York,Long Beach,11561,256
+Alabama,Florence,35630,257
+Georgia,Macon,31204,258
+Iowa,Cedar Rapids,52402,259
+Rhode Island,Providence,2908,260
+Colorado,Pueblo,81001,261
+California,Fairfield,94533,262
+Florida,Deltona,32725,263
+Kentucky,Murray,42071,264
+Connecticut,Middletown,6457,265
+New York,Freeport,11520,266
+California,Pico Rivera,90660,267
+Utah,Provo,84604,268
+Utah,Pleasant Grove,84062,269
+Georgia,Smyrna,30080,270
+Virginia,Salem,24153,271
+Ohio,Parma,44134,272
+Alabama,Mobile,36608,273
+Massachusetts,New Bedford,2740,274
+Texas,Irving,75061,275
+New Jersey,Vineland,8360,276
+Arizona,Glendale,85301,277
+New York,Niagara Falls,14304,278
+North Carolina,Thomasville,27360,279
+California,Westminster,92683,280
+Tennessee,Jackson,38301,281
+Texas,Coppell,75019,282
+California,Pomona,91767,283
+Nevada,North Las Vegas,89031,284
+Pennsylvania,Allentown,18103,285
+Delaware,Newark,19711,286
+Arizona,Tempe,85281,287
+California,Laguna Niguel,92677,288
+New Jersey,Bridgeton,8302,289
+Massachusetts,Everett,2149,290
+New York,Watertown,13601,291
+Wisconsin,Appleton,54915,292
+Washington,Bellevue,98006,293
+Texas,Allen,75002,294
+Texas,El Paso,79907,295
+Texas,Grapevine,76051,296
+Texas,Carrollton,75007,297
+Tennessee,Smyrna,37167,298
+Washington,Kent,98031,299
+Louisiana,Lafayette,70506,300
+Oregon,Tigard,97224,301
+Illinois,Skokie,60076,302
+Texas,Plano,75023,303
+Virginia,Suffolk,23434,304
+Indiana,Indianapolis,46203,305
+New Jersey,Bayonne,7002,306
+North Carolina,Fayetteville,28314,307
+North Carolina,Greensboro,27405,308
+Maryland,Baltimore,21215,309
+Wisconsin,Kenosha,53142,310
+Kansas,Olathe,66062,311
+Washington,Auburn,98002,312
+Oklahoma,Tulsa,74133,313
+Oregon,Redmond,97756,314
+North Carolina,Raleigh,27604,315
+Oklahoma,Muskogee,74403,316
+Connecticut,Meriden,6450,317
+Kentucky,Bowling Green,42104,318
+Indiana,South Bend,46614,319
+Connecticut,Bristol,6010,320
+Nevada,Henderson,89015,321
+Washington,Spokane,99207,322
+Texas,Keller,76248,323
+Ohio,Fairfield,45014,324
+Florida,Port Orange,32127,325
+Oregon,Medford,97504,326
+Virginia,Charlottesville,22901,327
+Montana,Missoula,59801,328
+Florida,Miami,33178,329
+South Carolina,Florence,29501,330
+Oregon,Springfield,97477,331
+Florida,Apopka,32712,332
+Pennsylvania,Reading,19601,333
+Colorado,Broomfield,80020,334
+Missouri,Springfield,65807,335
+New Jersey,Paterson,7501,336
+Oklahoma,Oklahoma City,73120,337
+Virginia,Chesapeake,23320,338
+Texas,Lubbock,79424,339
+Missouri,Columbia,65203,340
+Tennessee,Johnson City,37604,341
+Alabama,Auburn,36830,342
+California,San Bernardino,92404,343
+Massachusetts,Leominster,1453,344
+Montana,Bozeman,59715,345
+Arizona,Peoria,85345,346
+Ohio,Lakewood,44107,347
+New Jersey,Perth Amboy,8861,348
+California,Ontario,91761,349
+California,Rancho Cucamonga,91730,350
+Minnesota,Moorhead,56560,351
+Texas,Mesquite,75150,352
+California,Stockton,95207,353
+Florida,Ormond Beach,32174,354
+California,Sunnyvale,94086,355
+New Hampshire,Dover,3820,356
+Pennsylvania,York,17403,357
+Texas,College Station,77840,358
+Missouri,Saint Louis,63116,359
+Massachusetts,Quincy,2169,360
+California,Manteca,95336,361
+Ohio,Kent,44240,362
+Texas,San Angelo,76903,363
+Utah,Salt Lake City,84106,364
+Alabama,Huntsville,35810,365
+Tennessee,Knoxville,37918,366
+Arkansas,Little Rock,72209,367
+Michigan,Lincoln Park,48146,368
+Ohio,Marion,43302,369
+Colorado,Littleton,80122,370
+Vermont,Burlington,5408,371
+Maine,Bangor,4401,372
+Mississippi,Southaven,38671,373
+Indiana,New Castle,47362,374
+Michigan,Midland,48640,375
+South Dakota,Sioux Falls,57103,376
+Colorado,Fort Collins,80525,377
+Indiana,Lafayette,47905,378
+Tennessee,Clarksville,37042,379
+California,Sacramento,95823,380
+California,Thousand Oaks,91360,381
+Massachusetts,Malden,2148,382
+Massachusetts,Holyoke,1040,383
+New Mexico,Albuquerque,87105,384
+Nevada,Sparks,89431,385
+California,Coachella,92236,386
+Illinois,Elmhurst,60126,387
+New Jersey,Passaic,7055,388
+South Carolina,North Charleston,29406,389
+Virginia,Newport News,23602,390
+New York,Jamestown,14701,391
+Indiana,Mishawaka,46544,392
+Ohio,Bowling Green,43402,393
+California,La Quinta,92253,394
+Florida,Tallahassee,32303,395
+Tennessee,Nashville,37211,396
+Washington,Bellingham,98226,397
+Illinois,Woodstock,60098,398
+Texas,Haltom City,76117,399
+Illinois,Wheeling,60090,400
+South Carolina,Summerville,29483,401
+Arkansas,Hot Springs,71901,402
+Colorado,Englewood,80112,403
+Ohio,Lancaster,43130,404
+New Mexico,Las Cruces,88001,405
+Alabama,Hoover,35244,406
+Texas,Frisco,75034,407
+California,Vacaville,95687,408
+Utah,Murray,84107,409
+Wisconsin,Waukesha,53186,410
+California,Bakersfield,93309,411
+Florida,Pompano Beach,33068,412
+Ohio,Troy,45373,413
+Texas,Corpus Christi,78415,414
+California,Redondo Beach,90278,415
+Florida,Orlando,32839,416
+New Jersey,Orange,7050,417
+Louisiana,Lake Charles,70601,418
+Illinois,Highland Park,60035,419
+New York,Hempstead,11550,420
+Indiana,Noblesville,46060,421
+Minnesota,Apple Valley,55124,422
+South Carolina,Mount Pleasant,29464,423
+Michigan,Sterling Heights,48310,424
+Wisconsin,Eau Claire,54703,425
+Texas,Pharr,78577,426
+Montana,Billings,59102,427
+Oregon,Gresham,97030,428
+Tennessee,Chattanooga,37421,429
+Idaho,Meridian,83642,430
+California,Apple Valley,92307,431
+Illinois,Bolingbrook,60440,432
+Minnesota,Maple Grove,55369,433
+California,Woodland,95695,434
+Texas,Missouri City,77489,435
+Texas,Pearland,77581,436
+California,San Mateo,94403,437
+Michigan,Grand Rapids,49505,438
+California,Visalia,93277,439
+Kansas,Overland Park,66212,440
+California,Temecula,92592,441
+California,Yucaipa,92399,442
+Massachusetts,Revere,2151,443
+Texas,Conroe,77301,444
+Illinois,Tinley Park,60477,445
+Iowa,Dubuque,52001,446
+Michigan,Dearborn Heights,48127,447
+New Mexico,Santa Fe,87505,448
+North Carolina,Hickory,28601,449
+Illinois,Carol Stream,60188,450
+Minnesota,Saint Cloud,56301,451
+Florida,North Miami,33161,452
+Indiana,Lawrence,46226,453
+Florida,Plantation,33317,454
+Florida,Port Saint Lucie,34952,455
+South Carolina,Rock Hill,29730,456
+Texas,Odessa,79762,457
+Wisconsin,West Allis,53214,458
+California,Chula Vista,91911,459
+Kansas,Manhattan,66502,460
+Pennsylvania,Altoona,16602,461
+Colorado,Thornton,80229,462
+Illinois,Champaign,61821,463
+Indiana,Bloomington,47401,464
+Arkansas,Texarkana,71854,465
+Texas,Edinburg,78539,466
+Texas,Baytown,77520,467
+Indiana,Greenwood,46142,468
+California,Lakewood,90712,469
+Rhode Island,Woonsocket,2895,470
+Wisconsin,Superior,54880,471
+Texas,Bedford,76021,472
+Washington,Covington,98042,473
+Oklahoma,Broken Arrow,74012,474
+Florida,Miramar,33023,475
+Florida,Hollywood,33021,476
+Texas,Deer Park,77536,477
+Kansas,Wichita,67212,478
+Texas,Mcallen,78501,479
+Iowa,Iowa City,52240,480
+Idaho,Boise,83704,481
+Rhode Island,Cranston,2920,482
+Illinois,Freeport,61032,483
+Texas,Port Arthur,77642,484
+California,Citrus Heights,95610,485
+Texas,The Colony,75056,486
+Washington,Redmond,98052,487
+Florida,Daytona Beach,32114,488
+Arizona,Bullhead City,86442,489
+Indiana,Portage,46368,490
+North Dakota,Fargo,58103,491
+Indiana,Elkhart,46514,492
+California,San Gabriel,91776,493
+Florida,Margate,33063,494
+Georgia,Sandy Springs,30328,495
+Ohio,Mentor,44060,496
+Oklahoma,Lawton,73505,497
+Virginia,Hampton,23666,498
+New York,Rome,13440,499
+Wisconsin,La Crosse,54601,500
+Idaho,Lewiston,83501,501
+Mississippi,Hattiesburg,39401,502
+California,Danville,94526,503
+Michigan,Mount Pleasant,48858,504
+Utah,Logan,84321,505
+Connecticut,Waterbury,6708,506
+Georgia,Athens,30605,507
+Maine,Lewiston,4240,508
+Illinois,Danville,61832,509
+Arizona,Avondale,85323,510
+Georgia,Marietta,30062,511
+Arizona,Yuma,85364,512
+Wisconsin,Wausau,54401,513
+Washington,Pasco,99301,514
+Illinois,Oak Park,60302,515
+Florida,Pensacola,32503,516
+Texas,League City,77573,517
+Maryland,Gaithersburg,20877,518
+Utah,Lehi,84043,519
+Alabama,Tuscaloosa,35401,520
+California,Moreno Valley,92553,521
+Kentucky,Georgetown,40324,522
+Colorado,Loveland,80538,523
+Arizona,Chandler,85224,524
+Montana,Helena,59601,525
+Missouri,Kirkwood,63122,526
+Texas,Waco,76706,527
+Michigan,Roseville,48066,528
+Illinois,Frankfort,60423,529
+Pennsylvania,Bethlehem,18018,530
+Minnesota,Roseville,55113,531
+Nebraska,Grand Island,68801,532
+Minnesota,Woodbury,55125,533
+Michigan,Oak Park,48237,534
+Arkansas,Rogers,72756,535
+New Mexico,Clovis,88101,536
+Florida,Jupiter,33458,537
+California,Santa Barbara,93101,538
+Texas,Cedar Hill,75104,539
+Nebraska,Norfolk,68701,540
+Utah,Draper,84020,541
+Michigan,Ann Arbor,48104,542
+California,La Mesa,91941,543
+Idaho,Pocatello,83201,544
+Michigan,Holland,49423,545
+Connecticut,Milford,6460,546
+Illinois,Buffalo Grove,60089,547
+California,Lake Forest,92630,548
+California,Redding,96003,549
+California,Chico,95928,550
+New York,Utica,13501,551
+Arkansas,Conway,72032,552
+Wyoming,Cheyenne,82001,553
+Kentucky,Owensboro,42301,554
+Idaho,Caldwell,83605,555
+Louisiana,Kenner,70065,556
+New Hampshire,Nashua,3060,557
+Tennessee,Bartlett,38134,558
+California,Redwood City,94061,559
+Tennessee,Lebanon,37087,560
+California,Santa Maria,93454,561
+Illinois,Des Plaines,60016,562
+Washington,Longview,98632,563
+Tennessee,Hendersonville,37075,564
+Iowa,Waterloo,50701,565
+Massachusetts,Cambridge,2138,566
+Illinois,Palatine,60067,567
+Massachusetts,Beverly,1915,568
+Oregon,Eugene,97405,569
+California,Oxnard,93030,570
+Washington,Renton,98059,571
+Illinois,Glenview,60025,572
+Florida,Delray Beach,33445,573
+Colorado,Commerce City,80022,574
+Texas,Texas City,77590,575
+North Carolina,Wilson,27893,576
+New Mexico,Rio Rancho,87124,577
+North Carolina,Goldsboro,27534,578
+Washington,Everett,98208,579
+California,Montebello,90640,580
+California,El Cajon,92020,581
+Texas,Beaumont,77705,582
+Florida,West Palm Beach,33407,583
+Texas,Abilene,79605,584
+Illinois,Normal,61761,585
+Missouri,Saint Charles,63301,586
+Illinois,Saint Charles,60174,587
+California,Camarillo,93010,588
+Oregon,Hillsboro,97123,589
+California,Burbank,91505,590
+California,Modesto,95351,591
+Kansas,Garden City,67846,592
+New Jersey,Atlantic City,8401,593
+Colorado,Longmont,80501,594
+California,Davis,95616,595
+West Virginia,Wheeling,26003,596
+California,Morgan Hill,95037,597
+New Jersey,Clifton,7011,598
+Wisconsin,Sheboygan,53081,599
+Georgia,East Point,30344,600
+South Dakota,Rapid City,57701,601
+Massachusetts,Andover,1810,602
+Florida,Kissimmee,34741,603
+Connecticut,Shelton,6484,604
+Connecticut,Danbury,6810,605
+Iowa,Marion,52302,606
+Florida,Sanford,32771,607
+Texas,San Marcos,78666,608
+Colorado,Greeley,80634,609
+Texas,Mansfield,76063,610
+Ohio,Elyria,44035,611
+Idaho,Twin Falls,83301,612
+Florida,Coral Gables,33134,613
+Illinois,Romeoville,60441,614
+Massachusetts,Marlborough,1752,615
+Maryland,Laurel,20707,616
+Texas,Bryan,77803,617
+Arkansas,Pine Bluff,71603,618
+South Dakota,Aberdeen,57401,619
+Maryland,Hagerstown,21740,620
+New Jersey,East Orange,7017,621
+Illinois,Arlington Heights,60004,622
+Illinois,Oswego,60543,623
+Minnesota,Coon Rapids,55433,624
+California,San Clemente,92672,625
+California,Dublin,94568,626
+California,San Luis Obispo,93405,627
+Arkansas,Springdale,72762,628
+California,Lodi,95240,629
+Texas,La Porte,77571,630
+Ohio,Mason,45040,631
+Georgia,Woodstock,30188,632
